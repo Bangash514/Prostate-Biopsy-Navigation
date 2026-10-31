@@ -1,0 +1,8 @@
+fiducials: 6, FLE sigma 0.5 mm per axis, trials 5000
+RMS FRE measured:  0.7067 mm
+RMS FRE predicted: 0.7071 mm
+RMS TRE measured:  0.3640 mm
+RMS TRE predicted: 0.3654 mm
+mean tip calibration error: 0.4619 mm
+targeting error mean: 0.5734 mm, median 0.5481 mm, 95th percentile 1.0112 mm
+within 2 mm: 100.0 %, within 3 mm: 100.0 %, within 5 mm: 100.0 %
