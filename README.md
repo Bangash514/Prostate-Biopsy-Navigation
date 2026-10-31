@@ -6,6 +6,11 @@ A simulated demo of the maths behind image-guided prostate biopsy: register imag
 calibrate a tracked needle tip, then measure how far the needle lands from the target. Same algorithms in
 C++ (Eigen + OpenCV) and Python (NumPy).
 
+<p align="center">
+  <img src="results/slice_cpp.png" width="45%" alt="Simulated ultrasound-like prostate slice with target and needle path">
+  <img src="results/targeting_error_hist.png" width="50%" alt="Needle targeting error over 5000 simulated trials">
+</p>
+
 > **Simulated data only.** No patient images, no real tracker. It is research / portfolio code,
 > not a medical device, and makes no clinical claims. Noise levels are assumptions, listed below.
 
